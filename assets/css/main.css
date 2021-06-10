@@ -116,13 +116,13 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #49bf9d;
+		color: #bdbdbd;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: #bdbdbd !important;
 			text-decoration: none;
 		}
 
@@ -158,12 +158,12 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 2em;
+		font-size: 2.5em;
 		line-height: 1.5em;
 	}
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 2em;
 		line-height: 1.5em;
 	}
 
@@ -201,7 +201,7 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px #efefef;
+		border-bottom: solid 2px #616161;
 		margin: 2em 0;
 	}
 
@@ -2700,7 +2700,7 @@ input, select, textarea {
 	}
 
 		#main > section {
-			border-top: solid 2px #efefef;
+			border-top: solid 2px #616161;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
