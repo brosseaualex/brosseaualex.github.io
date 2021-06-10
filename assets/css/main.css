@@ -2475,17 +2475,17 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #949494;
+			color: #949494 !important;
 		}
 
 		input[type="submit"]:active,
 		input[type="reset"]:active,
 		input[type="button"]:active,
 		.button:active {
-			background-color: rgba(73, 191, 157, 0.1);
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			background-color: #7d7d7d;
+			border-color: #7d7d7d;
+			color: #7d7d7d !important;
 		}
 
 		input[type="submit"].icon,
@@ -2545,8 +2545,8 @@ input, select, textarea {
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #3eb08f;
-				border-color: #3eb08f;
+				background-color: #7d7d7d;
+				border-color: #7d7d7d;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
