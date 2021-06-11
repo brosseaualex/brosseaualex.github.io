@@ -33,13 +33,17 @@ footer, header, hgroup, menu, nav, section {
 	text-align: center;
 }
 
-
 body {
 	line-height: 1;
 }
 
 ol, ul {
 	list-style: none;
+}
+
+.technologies {
+	font-size: 0.8em;
+	margin-left: 10px;
 }
 
 blockquote, q {
