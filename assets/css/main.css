@@ -131,7 +131,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #00000;
+		color: #000000;
 		font-weight: 400;
 	}
 
@@ -2246,7 +2246,7 @@ input, select, textarea {
 			}
 
 			ul.labeled-icons li h3 {
-				color: #b2b2b2;
+				color: #787878;
 				left: 0;
 				position: absolute;
 				text-align: center;
